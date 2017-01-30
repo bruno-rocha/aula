@@ -6,33 +6,17 @@
 
 # dependencies
 /node_modules
-<<<<<<< HEAD
-
-# IDEs and editors
-/.idea
-=======
 /bower_components
 
 # IDEs and editors
 /.idea
 /.vscode
->>>>>>> 1239da77082ae2562b1ace935abff73e73cf2e45
 .project
 .classpath
 .c9/
 *.launch
 .settings/
 
-<<<<<<< HEAD
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-=======
->>>>>>> 1239da77082ae2562b1ace935abff73e73cf2e45
 # misc
 /.sass-cache
 /connect.lock
